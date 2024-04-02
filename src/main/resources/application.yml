@@ -1,4 +1,3 @@
-
 spring:
   mail:
     host: smtp.gmail.com
@@ -11,3 +10,5 @@ spring:
           auth: true
           starttls:
             enable: true
+
+
